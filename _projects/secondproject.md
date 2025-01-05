@@ -2,7 +2,7 @@
 layout: page
 title: second project
 description: an other project with a background image and giscus comments
-img: aboutImage.png
+img: aboutImage.jpg
 importance: 2
 category: work
 giscus_comments: true
