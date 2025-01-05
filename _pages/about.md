@@ -9,8 +9,9 @@ profile:
   image: aboutImage.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>IUST</p><br>
-    <p>Tehran</p><br>
+    <p>555 your office number</p>
+    <p>IUST</p>
+    <p>Tehran</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
